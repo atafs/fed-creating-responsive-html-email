@@ -1,5 +1,14 @@
 # fed-creating-responsive-html-email
+- fed: Front End Development
 Creating a Responsive HTML Email
+
+## Title
+- text
+
+```html
+<div></div>
+```
+
 
 ## Title
 - text
@@ -11,8 +20,3 @@ function fancyAlert(arg) {
   }
 }
 ```
-
-## Title
-- text
-
-```code```
